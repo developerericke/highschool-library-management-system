@@ -1,4 +1,4 @@
-# highschool-library-management-system
+# Highschool Library Management System
 This projects contains a computerized Library Management System Build with Visual Basic.
 This program requires MS Access 2013 or a higher version to be Installed.
 
